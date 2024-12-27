@@ -1,4 +1,5 @@
 # Guess_the_phrase.c
+# It's a guess game for user to guess a phrase with word limit.
 #include <stdio.h>
 #include <string.h>
 
